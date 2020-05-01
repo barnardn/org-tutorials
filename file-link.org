@@ -1,0 +1,4 @@
+* File Link
+This is a file that's been linked to via file link from the parent document
+** Sub item
+It can have it's own stuff in side of it
