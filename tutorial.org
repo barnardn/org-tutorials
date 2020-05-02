@@ -3,17 +3,25 @@
 ** Second Headline
    More text fdsafdsasfda fd fdaf dasf da fd fdaf ds fdsdfd fdsaf da fdfa fds fasd fdafd fdf dsad fa
 *** Second.Subitem
-    Second.Subitem details 
+    Second.Subitem details
 **** Second.Subitem.Subitem
      subitems about another things some more random text
      "Some dialog," he said. and then proceeded to fart.
      "Disgusting!" said the chick!
 ** Third headline
-   Details for third headline
+   Tasks for tutorial manually refiled from capture files.
+   To do this copy the task using C-c @ (mark subtree)
+   and drop it here
+** TODO another todo test
+
+ [[file:~/projects/org-tutorials/chapter1.org::*Chapter 1][Chapter 1]]
+
 ** Fourth headline
    Some details about the fourth headline here.
-** Book Body Testc
-   This is where the book body begins. The first chapter link was created using C-c l and selecting file+emacs. This lets you create a file link, providing a description and name, letting you save it later. Conveniently, in the same directory as the master org file.
+** Book Body Test
+   This is where the book body begins. The first chapter link was created using C-c l and
+   selecting file+emacs. This lets you create a file link, providing a description and name,
+   letting you save it later. Conveniently, in the same directory as the master org file.
    [[file+emacs:chapter1.org][Chapter 1]]
 ** Fifth Headline with a list
 *** The List
@@ -28,7 +36,7 @@
       3. sub 2
       4. [ ] sub item for with checkbox M-S-RET
       5. M-Ret for no checkbox 5
-      6. [ ] another checkbox item  C-c C-c anywhere on line to toggle it 
+      6. [ ] another checkbox item  C-c C-c anywhere on line to toggle it
 ** Sixth Headline :: Drawers
    Information about headline 6
    :CRAP:
@@ -47,5 +55,3 @@
     this is just some text from which i'll create a todo item
 ** Eight Headline
    [[file:file-link.org][A file link to an org file]]
-   
-   
